@@ -11,4 +11,4 @@ Get your model working. This might take some time if you’re new to scipy.
 Test it on a few different student schedules/bid attempts and make sure all your cases are covered
 
 
-
+Project Plan:
