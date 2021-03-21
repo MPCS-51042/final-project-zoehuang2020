@@ -1,0 +1,9 @@
+Rubric
+Functionality: 40/40
+Style: 30/30 
+Scope/Logic: 10/10
+Scope was not covered in class:10/10
+Presentation: 10/10
+
+Notes: Excellent work! This tool clearly demonstrates what you have learned about application development and data analysis. Brava!
+Total: 100/100
